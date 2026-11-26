@@ -20,7 +20,6 @@ I also build **Pangea**, a plain-English cross-linked language for humans, AIs a
 
 [![GitHub followers](https://img.shields.io/github/followers/megaartaiking-cmd?style=flat&logo=github)](https://github.com/megaartaiking-cmd)
 [![YouTube](https://img.shields.io/badge/YouTube-SHERU%20BHAI%20OFFICIAL-red?logo=youtube)](https://www.youtube.com/@SHERUBHAIOFFICIAL-o3v)
-[![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UCfWr0zF-WiL-pT45yVDBNsw?style=flat&logo=youtube&label=Subscribers)](https://www.youtube.com/@SHERUBHAIOFFICIAL-o3v)
 
 ## 🛠️ Tech Stack
 
